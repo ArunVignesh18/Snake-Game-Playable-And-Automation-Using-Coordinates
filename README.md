@@ -1,5 +1,5 @@
 # Snake-Game-Playable-Automation-Using-Coordinates
-This Project Has 2 Programs. One Is 'Snake Game.py' which is playable game. Another one is'Game Snake Optimizer.py' which is automated game using coordinates.
+This Project Has 2 Programs. One Is 'Snake Game.py' which is playable game. Another one is 'Game Snake Optimizer.py' which is automated game using coordinates.
 
 <h2> Pygame </h2>
 I used PyGame Module to build a snake game in python.
