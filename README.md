@@ -1,6 +1,7 @@
 # Snake-Game-Playable-Automation-Using-Coordinates
 This Project Has 2 Programs. One Is 'Snake Game.py' which is playable game. Another one is automated game using coordinates.
 
+<h2> Pygame </h2>
 I used PyGame Module to build a snake game in python.
 
 'Snake Game.py' is played by using arrow keys. User have to catch the food (apple here) with the snake's head.
